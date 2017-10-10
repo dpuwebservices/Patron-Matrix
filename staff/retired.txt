@@ -1,24 +1,24 @@
 <table>
     <tbody>
         <tr>
+            <td>Access to Richardson Library</td>
+            <td>yes</td>
+            <td>Access to the physical space for visitors to Richardson Library</td>
+        </tr>
+        <tr>
             <td>Book checkout</td>
             <td>yes</td>
-            <td>4 weeks, expires at end of session</td>
+            <td>4 weeks</td>
         </tr>
         <tr>
             <td>Identification needed</td>
             <td>yes</td>
-            <td>The DePaul sponsoring unit must provide an official list of students to be entered into the Libraries' patron database</td>
+            <td>Contact <a href="/about/contact-us/departments/Pages/administration.aspx">Library Administration</a></td>
         </tr>
         <tr>
             <td>Interlibrary loan</td>
             <td>yes</td>
             <td>Request beyond DePaul and I-Share using <a href="https://depaullib.illiad.oclc.org/illiad/logon.html">ILLiad</a></td>
-        </tr>
-        <tr>
-            <td>Library research computer use</td>
-            <td>yes</td>
-            <td></td>
         </tr>
         <tr>
             <td>Media viewing &amp; listening area use</td>
@@ -41,18 +41,13 @@
             <td>(312) 362-8433</td>
         </tr>
         <tr>
-            <td>Print collections</td>
-            <td>yes</td>
-            <td>In-library use only</td>
-        </tr>
-        <tr>
             <td>Reference service use</td>
             <td>yes</td>
             <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Ask a Librarian</a></td>
         </tr>
         <tr>
             <td>Remote access to online resources</td>
-            <td>yes</td>
+            <td>No</td>
             <td>via Libraries' proxy server</td>
         </tr>
         <tr>
@@ -84,11 +79,6 @@
             <td>Wireless access </td>
             <td>yes</td>
             <td>Wireless access via <a href="https://offices.depaul.edu/information-services/services/wireless/Pages/default.aspx">DPU Wireless network</a></td>
-        </tr>
-        <tr>
-            <td>Access to Richardson Library</td>
-            <td>Yes</td>
-            <td>Access to the physical space for visitors to Richardson Library</td>
         </tr>
     </tbody>
 </table>

@@ -1,0 +1,79 @@
+<table>
+    <tbody>
+        <tr>
+            <td>Access to internet &amp; electronic resources</td>
+            <td>No</td>
+            <td>On-campus access to the internet, online databases, and journals</td>
+        </tr>
+        <tr>
+            <td>Interlibrary loan</td>
+            <td>No</td>
+            <td>Request beyond DePaul and I-Share using ILLiad</td>
+        </tr>
+        <tr>
+            <td>Library research computer use</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Media viewing &amp; listening area use</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Remote access to online resources</td>
+            <td>No</td>
+            <td>via Libraries' proxy server</td>
+        </tr>
+        <tr>
+            <td>Request books from I-Share Libraries</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Research consultation services</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Video &amp; CD checkout</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Wireless access </td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Book checkout</td>
+            <td>yes</td>
+            <td>16 weeks</td>
+        </tr>
+        <tr>
+            <td>Identification needed</td>
+            <td>yes</td>
+            <td>You must have a current Loyola faculty ID. With this, your borrowing status will be entered into the Libraries' patron database.</td>
+        </tr>
+        <tr>
+            <td>Microfilm &amp; microfiche use</td>
+            <td>yes</td>
+            <td>Ask at Access Services desk; NON-CIRCULATING - MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Online renewal</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Phone renewal</td>
+            <td>yes</td>
+            <td>(312) 362-8433</td>
+        </tr>
+        <tr>
+            <td>Reference service use</td>
+            <td>yes</td>
+            <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Ask a Librarian</a></td>
+        </tr>
+    </tbody>
+</table>

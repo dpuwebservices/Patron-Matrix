@@ -1,0 +1,95 @@
+<table>
+    <tbody>
+        <tr>
+            <td>Access to internet &amp; electronic resources</td>
+            <td>No</td>
+            <td>On-campus access to the internet, online databases and journals</td>
+        </tr>
+        <tr>
+            <td>Interlibrary loan</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Remote access to online resources</td>
+            <td>No</td>
+            <td>via Libraries' proxy server</td>
+        </tr>
+        <tr>
+            <td>Request articles from another DePaul campus library</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Request books from another DePaul campus library </td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Request books from I-Share Libraries</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Video &amp; CD checkout</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Wireless access </td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Book checkout</td>
+            <td>yes</td>
+            <td>4 weeks, expires at end of class
+            </td>
+        </tr>
+        <tr>
+            <td>Identification needed</td>
+            <td>yes</td>
+            <td>The DePaul sponsoring unit must provide an official list of students to be entered into the Libraries' patron database</td>
+        </tr>
+        <tr>
+            <td>Library research computer use</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Media viewing &amp; listening area use</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microfilm &amp; microfiche use</td>
+            <td>yes</td>
+            <td>Ask at Access Services desk; NON-CIRCULATING - MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Online renewal</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Phone renewal</td>
+            <td>yes</td>
+            <td>(312) 362-8433</td>
+        </tr>
+        <tr>
+            <td>Reference service use</td>
+            <td>yes</td>
+            <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Ask a Librarian</a></td>
+        </tr>
+        <tr>
+            <td>Research consultation services</td>
+            <td>yes</td>
+            <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Reference Service Use</a></td>
+        </tr>
+        <tr>
+            <td>Access to Richardson Library</td>
+            <td>yes</td>
+            <td>Access to the physical space for visitors to Richardson Library and until 11pm</td>
+        </tr>
+    </tbody>
+</table>

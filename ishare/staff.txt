@@ -1,0 +1,84 @@
+<table>
+    <tbody>
+        <tr>
+            <td>Access to internet &amp; electronic resources</td>
+            <td>No</td>
+            <td>On-campus access to the internet, online databases and journals</td>
+        </tr>
+        <tr>
+            <td>Interlibrary loan</td>
+            <td>No</td>
+            <td>Request beyond DePaul and I-Share using ILLiad</td>
+        </tr>
+        <tr>
+            <td>Library research computer use</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Media viewing &amp; listening area use</td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Remote access to online resources</td>
+            <td>No</td>
+            <td>via Libraries' proxy server</td>
+        </tr>
+        <tr>
+            <td>Research consultation services</td>
+            <td>No</td>
+            <td>Reference service use</td>
+        </tr>
+        <tr>
+            <td>Video &amp; CD checkout</td>
+            <td>No</td>
+            <td>Not granted, except where noted in catalog record</td>
+        </tr>
+        <tr>
+            <td>Wireless access </td>
+            <td>No</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Book checkout</td>
+            <td>yes</td>
+            <td>4 weeks</td>
+        </tr>
+        <tr>
+            <td>Identification needed</td>
+            <td>yes</td>
+            <td>You must have a current staff ID from your home institution</td>
+        </tr>
+        <tr>
+            <td>Microfilm &amp; microfiche use</td>
+            <td>yes</td>
+            <td>Ask at Access Services desk; NON-CIRCULATING - MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Online renewal</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Phone renewal</td>
+            <td>yes</td>
+            <td>(312) 362-8433</td>
+        </tr>
+        <tr>
+            <td>Reference service use</td>
+            <td>yes</td>
+            <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Ask a Librarian</a></td>
+        </tr>
+        <tr>
+            <td>Request books from I-Share Libraries</td>
+            <td>yes</td>
+            <td>Request books from I-Share libraries through the <a href="https://vufind.carli.illinois.edu/all/vf/">I-Share catalog</a>; 28 day loan, max 3 renewals</td>
+        </tr>
+        <tr>
+            <td>Access to Richardson Library</td>
+            <td>yes</td>
+            <td>Access to the physical space for visitors to Richardson Library until 11pm</td>
+        </tr>
+    </tbody>
+</table>

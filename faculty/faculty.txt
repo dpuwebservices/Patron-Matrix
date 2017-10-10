@@ -1,0 +1,149 @@
+<table>
+    <tbody>
+        <tr>
+            <td>Books (Circulating Only) - Includes ERC/CMC and Music Scores</td>
+            <td>yes</td>
+            <td>16 weeks</td>
+        </tr>
+        <tr>
+            <td>Identification Needed</td>
+            <td>yes</td>
+            <td>DePaul ID Required</td>
+        </tr>
+        <tr>
+            <td>Interlibrary loan</td>
+            <td>yes</td>
+            <td>Request beyond DePaul &amp; I-Share using <a href="https://depaullib.illiad.oclc.org/illiad/logon.html">ILLiad</a></td>
+        </tr>
+        <tr>
+            <td>Library Research Computer Use</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Media Viewing &amp; Listening Area Use</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Microfilm &amp; Microfiche Use</td>
+            <td>yes</td>
+            <td>Ask at Access Services desk; NON-CIRCULATING - MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Online Renewal</td>
+            <td>yes</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Phone Renewal</td>
+            <td>yes</td>
+            <td>(312) 362-8433</td>
+        </tr>
+        <tr>
+            <td>Reference Service Use</td>
+            <td>yes</td>
+            <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Ask a Librarian</a></td>
+        </tr>
+        <tr>
+            <td>Remote Access to Online Resources</td>
+            <td>yes</td>
+            <td>via Libraries' proxy server, use Campus Connect credentials</td>
+        </tr>
+        <tr>
+            <td>Request Articles from Another DePaul Campus Library</td>
+            <td>yes</td>
+            <td>Request articles from another DePaul campus library through <a href="https://depaullib.illiad.oclc.org/illiad/logon.html">ILLiad</a></td>
+        </tr>
+        <tr>
+            <td>Request Books from Another DePaul Campus Library</td>
+            <td>yes</td>
+            <td>Request books from another DePaul campus library through <a href="http://vufind.carli.illinois.edu/vf-dpu/">I-Share</a></td>
+        </tr>
+        <tr>
+            <td>Request Books from I-Share Libraries</td>
+            <td>yes</td>
+            <td>Through the <a href="http://vufind.carli.illinois.edu/all/vf/">I-Share catalog</a>; 28 day loan, up to 6 renewals</td>
+        </tr>
+        <tr>
+            <td>Research Consultation Services</td>
+            <td>yes</td>
+            <td><a href="/get-help/ask-a-librarian/Pages/default.aspx">Reference Service Use</a></td>
+        </tr>
+        <tr>
+            <td>Videos, CDs, &amp; DVDs</td>
+            <td>yes</td>
+            <td>1 week, can renew (Via phone, In person, or E-mail) &amp; check out as many as they wish</td>
+        </tr>
+        <tr>
+            <td>Wireless Access</td>
+            <td>yes</td>
+            <td> Wireless access via <a href="http://wireless.depaul.edu/">DPU Wireless Network</a></td>
+        </tr>
+        <tr>
+            <td>OCLC Reciprocal Faculty Borrowing</td>
+            <td>yes</td>
+            <td>Available to Full-Time Faculty, <a href="/about/policies/Pages/oclc-borrowing-program.aspx"> Request your OCLC Reciprocal Faculty Borrowing Card</a></td>
+        </tr>
+        <tr>
+            <td>Access to Richardson Library</td>
+            <td>yes</td>
+            <td>Access to the physical space for visitors to Richardson Library</td>
+        </tr>
+        <tr>
+            <td>Misc. Equipment (Headphones, Adapters, Cables, Remotes, Microfilm Lenses, etc.)</td>
+            <td>yes</td>
+            <td>5 hours, MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Career Center Books</td>
+            <td>yes</td>
+            <td>1 week, no renewals</td>
+        </tr>
+        <tr>
+            <td>Reserves (Books, Videos, DVDs, CDs, etc.)</td>
+            <td>yes</td>
+            <td>Loan period varies (Typical loan period is 2 or 5 hours), MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Periodicals (Journals and Magazines)</td>
+            <td>yes</td>
+            <td>NON-CIRCULATING - MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Reference Items</td>
+            <td>yes</td>
+            <td>NON-CIRCULATING - MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Recreational Reading &amp; Faculty Publications</td>
+            <td>yes</td>
+            <td>4 weeks</td>
+        </tr>
+        <tr>
+            <td>Graphic Novels</td>
+            <td>yes</td>
+            <td>16 weeks</td>
+        </tr>
+        <tr>
+            <td>Laptop Locks (Security Cables)</td>
+            <td>yes</td>
+            <td>5 hours, MUST BE USED IN THE LIBRARY</td>
+        </tr>
+        <tr>
+            <td>Video Games</td>
+            <td>yes</td>
+            <td>1 week, no renewals, 2 item limit</td>
+        </tr>
+        <tr>
+            <td>Game Consoles</td>
+            <td>yes</td>
+            <td>2 weeks, no renewals; Consoles must be returned at check-out campus</td>
+        </tr>
+        <tr>
+            <td>Media Equipment (Portable Chargers, Computer Chargers, Phone Chargers, Webcams, and Media:scape Adapters)</td>
+            <td>yes</td>
+            <td>5 hours, MUST BE USED IN THE LIBRARY</td>
+        </tr>
+    </tbody>
+</table>
